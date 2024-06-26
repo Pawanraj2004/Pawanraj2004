@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student at LNCT Group of College,Bhopal pursuing B.Tech. in Computer Science Engineering with specializaton in Internet of things, blockchain and cyber security.<br>I would like to expand my knowledge in the field of computer science. I have build and worked on projects specializing in web development and java.
+I am a student.<br>I would like to expand my knowledge in the field of computer science. I have build and worked on projects specializing in web development and java.
 
 
 ## 🌐 Socials:
